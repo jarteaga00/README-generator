@@ -42,13 +42,13 @@ ${data.description}
 
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
-*[Contributing](#contributing)
+* [Contributing](#contributing)
 
-*[Tests](#tests)
+* [Tests](#tests)
 
-*[Questions](#questions)
+* [Questions](#questions)
 
-##Installation
+## Installation
 
 To install necessary dependencies, run the following command: 
 
